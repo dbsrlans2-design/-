@@ -1,5 +1,5 @@
 ---
-name: midjourney-card-news-backgrounds
+name: midjourney-cardnews-bg
 description: Generate Midjourney prompts for 600x600 card news background images based on topic, mood, and style preferences. Use when user requests card news backgrounds or Instagram post backgrounds.
 ---
 
